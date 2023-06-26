@@ -12,7 +12,8 @@ A Cube Map is a collection of six square 2D textures that represent a 360-degree
 ### Installation
 
 ```bash
-pip install -r requriement.txt
+pip install Pillow
+pip install opencv-python
 ```
 
 ### Usage
