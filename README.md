@@ -22,6 +22,13 @@ pip install opencv-python
 python main.py -p 'download\subdir\' -o 'output' 
 ```
 
+### Result
+
+<div align="center">
+    <img src="img/test.jpeg" height="200" width="300" />
+    <img src="img/test_output.png" height="200" width="300" /> 
+</div>
+
 ### Reference
 
 [Understanding 360 images](https://medium.com/check-visit-computer-vision/understanding-360-images-8e0fcf0ee861)
